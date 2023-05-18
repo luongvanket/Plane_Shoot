@@ -1,0 +1,2 @@
+D:\VS2022\SetUpSDL2\x64\Debug\SetUpSDL2.exe
+D:\VS2022\Game_Project\x64\Debug\SetUpSDL2.exe
